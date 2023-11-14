@@ -1,5 +1,5 @@
 # Implementation-of-Multiple-Channel-Active-Noise-Control
-In this project, filtered-X LMS algorithm is incorporated to emulate a better performance over its normal version siblings. A multiple-channel ANC(MCANC) is juxtaposed with a traditional single-channel ANC(SCANC) to showcase the feasibility of MCANC in space and probability of dominance over SCANC in future use.
+In this project, filtered-X LMS algorithm is incorporated to emulate a better performance over its normal version siblings. A multiple-channel ANC(MCANC) is juxtaposed with a traditional single-channel ANC(SCANC) to showcase the feasibility of MCANC in space and probability of dominance over SCANC for future use.
 
 Details are provided with pictures and comments in codes.
 
